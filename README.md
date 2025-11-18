@@ -120,9 +120,9 @@ GPM % = DIVIDE([Gross Profit], [Total Revenue])
 
 ## 💻 File đính kèm
 - `EntrytestDashboard.pbix` – File Power BI
-- `Report.pdf' - File báo cáo phân tích dự án
+- `Report.pdf` - File báo cáo phân tích dự án
 - `README.md` – Mô tả dự án
-
+- Tất cả file dữ liệu Excel: `*.xlsx`
 
 ---
 
