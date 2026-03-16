@@ -128,7 +128,6 @@ GPM % = DIVIDE([Gross Profit], [Total Revenue])
 
 ## 👩‍💻 Author
 **Đoàn Thị Kỳ Duyên**  
-Data Analyst | BI Developer  
 Liên hệ: doanthikyduyen2001@gmail.com  
 
 
