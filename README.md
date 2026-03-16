@@ -1,7 +1,7 @@
-# 📊 Sales Analysis Dashboard (2016–2018)
+# Sales Analysis Dashboard (2016–2018)
 Power BI Project • Retail Dataset • Data Analytics & BI
 
-## ⭐ Giới thiệu
+## Giới thiệu
 Dự án này phân tích dữ liệu bán hàng trong giai đoạn **2016–2018** với mục tiêu:
 - Hiểu rõ hiệu suất kinh doanh theo thời gian
 - Đánh giá đóng góp doanh thu theo sản phẩm, kênh bán hàng và khu vực
@@ -15,7 +15,7 @@ Bộ dashboard được xây dựng bằng **Power BI**, với mục đích:
 
 ---
 
-## 📁 Dataset
+## Dataset
 **Nguồn dữ liệu:** Provided by StartTrain (Entry Test)  
 **Số bảng:** 4  
 - **SalesManagement** (Fact): 72,743 records — chứa thông tin giao dịch
@@ -25,7 +25,7 @@ Bộ dashboard được xây dựng bằng **Power BI**, với mục đích:
 
 ---
 
-## 🧱 Data Model (Star Schema)
+## Data Model (Star Schema)
 
 ```
           Region        SalesManagers
@@ -34,13 +34,13 @@ Bộ dashboard được xây dựng bằng **Power BI**, với mục đích:
             SalesManagement  ---- Date
 ```
 
-✔ Mô hình dạng **Star Schema**  
-✔ Fact trung tâm + 3 Dimension  
-✔ Quan hệ 1–n dựa trên Country và Date  
+- Mô hình dạng **Star Schema**  
+- Fact trung tâm + 3 Dimension  
+- Quan hệ 1–n dựa trên Country và Date  
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 Dashboard gồm **7 trang**, bao gồm:
 
@@ -67,26 +67,26 @@ Dashboard gồm **7 trang**, bao gồm:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 ### 🇪🇺 Europe – khu vực dẫn đầu doanh thu  
 - Gần **$400M**, chiếm tỷ trọng lớn nhất  
 - Tuy nhiên **GPM chưa tối ưu** → cơ hội cải thiện pricing/cost
 
-### 🌏 Oceania & Latin America – thị trường tiềm năng  
+### Oceania & Latin America – thị trường tiềm năng  
 - GPM cao nhất → khả năng thu hút lợi nhuận  
 - Cần đầu tư marketing & mở rộng kênh phân phối
 
-### 🛒 Web – kênh bán chủ lực  
+### Web – kênh bán chủ lực  
 - Chiếm **84% doanh thu**  
 - Cần tối ưu chi phí vận hành và logistics
 
-### 🎮 Video Games – sản phẩm bán chạy nhất  
+### Video Games – sản phẩm bán chạy nhất  
 - Hiệu suất cao, phù hợp mở rộng thêm SKU
 
 ---
 
-## 🛠️ Kỹ thuật sử dụng
+## Kỹ thuật sử dụng
 
 - Data Modeling (Star Schema)
 - Power Query (Data Cleaning)
@@ -109,7 +109,7 @@ GPM % = DIVIDE([Gross Profit], [Total Revenue])
 
 ---
 
-## 📌 Recommendations
+## Recommendations
 
 1. **Tối ưu chi phí và logistics cho kênh Web**  
 2. **Đầu tư marketing ở Oceania & Latin America**  
@@ -118,7 +118,7 @@ GPM % = DIVIDE([Gross Profit], [Total Revenue])
 
 ---
 
-## 💻 File đính kèm
+## File đính kèm
 - `EntrytestDashboard.pbix` – File Power BI
 - `Report.pdf` - File báo cáo phân tích dự án
 - `README.md` – Mô tả dự án
@@ -126,7 +126,7 @@ GPM % = DIVIDE([Gross Profit], [Total Revenue])
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Đoàn Thị Kỳ Duyên**  
 Liên hệ: doanthikyduyen2001@gmail.com  
 
