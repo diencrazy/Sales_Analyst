@@ -11,7 +11,7 @@ Dự án này phân tích dữ liệu bán hàng trong giai đoạn **2016–201
 Bộ dashboard được xây dựng bằng **Power BI**, với mục đích:
 - Portfolio cá nhân
 - Chuẩn bị phỏng vấn vị trí Data Analyst / BI Analyst
-- Học thực hành Power BI từ A–Z
+- Học thực hành Power BI
 
 ---
 
